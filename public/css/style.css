@@ -1,0 +1,12 @@
+body{
+	background:#e3e3e3;
+}
+
+
+.btn-del{
+	background-color: red;
+	color: #FFF;
+	padding: 5px;
+	text-decoration: none;
+
+}
