@@ -1,2 +1,2 @@
 # Todo-API
-simple API 
+APIs for simple Todo List App
